@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfHluwN/b1E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loure\\OneDrive\\Desktop\\Sample\\MyPortfolio.Net9\\MyPortfolio.Net9\\MyPortfolio.Net9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\9.0.5\\microsoft.aspnetcore.components.webassembly.9.0.5.nupkg.sha512",
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\9.0.5\\microsoft.aspnetcore.components.webassembly.server.9.0.5.nupkg.sha512",
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.5\\microsoft.jsinterop.webassembly.9.0.5.nupkg.sha512",
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.4\\microsoft.netcore.app.ref.9.0.4.nupkg.sha512",
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.4\\microsoft.windowsdesktop.app.ref.9.0.4.nupkg.sha512",
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.4\\microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512",
+    "C:\\Users\\loure\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.4\\microsoft.netcore.app.host.win-x64.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
