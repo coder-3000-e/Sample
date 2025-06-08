@@ -1,0 +1,51 @@
+@page "/"
+@using System
+@using Microsoft.AspNetCore.Components
+
+<PageTitle>My Portfolio</PageTitle>
+
+<div class="container">
+	<div class="hero">
+		<h1 class="title">👋 Hello, I'm a .NET & Blazor Developer</h1>
+		<p class="subtitle">Crafting modern, scalable web apps using .NET 9, Blazor, and clean architecture.</p>
+	</div>
+
+	<div class="section">
+		<h2>💼 Skills Overview</h2>
+		<div class="skills-grid">
+			<div class="card">⚙️ .NET 5 / .NET 6 / .NET 8 / .NET 9</div>
+			<div class="card">🌐 Blazor Server & WebAssembly</div>
+			<div class="card">📦 Entity Framework Core</div>
+			<div class="card">🔐 Authentication & Identity</div>
+			<div class="card">🧩 REST API Integration</div>
+			<div class="card">🧪 Unit & Integration Testing</div>
+			<div class="card">📊 SSRS & Reporting Services</div>
+			<div class="card">🧱 Clean Architecture & DI</div>
+			<div class="card">🎨 Responsive UI with Bootstrap/Tailwind</div>
+		</div>
+	</div>
+
+	<div class="section">
+		<h2>🚀 Recent Projects</h2>
+		<ul class="project-list">
+			@if (Projects?.Count > 0)
+			{
+				@foreach (var project in Projects)
+				{
+					<li><strong>@project.Name</strong> – @project.Description</li>
+				}
+			}
+			else
+			{
+				<li>Loading projects...</li>
+			}
+		</ul>
+	</div>
+
+	<div class="section contact">
+		<h2>📫 Let's Connect</h2>
+		<p>Let's build something great together.</p>
+	</div>
+</div>
+
+			

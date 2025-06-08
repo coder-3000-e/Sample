@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|solutionrelative:pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\shared\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|solutionrelative:shared\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\shared\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|solutionrelative:shared\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\uithemeclasses\\themeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:uithemeclasses\\themeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\dependency-injection\\detectincorrectusagesoftransientdisposables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:dependency-injection\\detectincorrectusagesoftransientdisposables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\myportfolio.net6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|MyPortfolio.Net6.csproj|solutionrelative:myportfolio.net6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|c:\\users\\loure\\downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\blazorsample_webassembly\\services\\transientdisposableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32719ACB-541F-4FD4-AAFA-F1762E18A0BE}|BlazorSample.csproj|solutionrelative:services\\transientdisposableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.razor.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor.cs",
+              "RelativeToolTip": "Pages\\Index.razor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:04:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\MainLayout.razor.cs",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\MainLayout.razor.cs",
+              "RelativeToolTip": "Shared\\MainLayout.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:01:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\NavMenu.razor.cs",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\NavMenu.razor.cs",
+              "RelativeToolTip": "Shared\\NavMenu.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:01:01.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T18:21:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor*",
+              "RelativeToolTip": "Pages\\Index.razor*",
+              "ViewState": "AgIAADAAAAAAAAAAAADgvzIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T18:23:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:12:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T18:10:16.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T18:10:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\UIThemeClasses\\ThemeInfo.cs",
+              "RelativeDocumentMoniker": "UIThemeClasses\\ThemeInfo.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\UIThemeClasses\\ThemeInfo.cs",
+              "RelativeToolTip": "UIThemeClasses\\ThemeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:04:01.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetectIncorrectUsagesOfTransientDisposables.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\dependency-injection\\DetectIncorrectUsagesOfTransientDisposables.cs",
+              "RelativeDocumentMoniker": "dependency-injection\\DetectIncorrectUsagesOfTransientDisposables.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\dependency-injection\\DetectIncorrectUsagesOfTransientDisposables.cs",
+              "RelativeToolTip": "dependency-injection\\DetectIncorrectUsagesOfTransientDisposables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:04:17.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T18:13:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyPortfolio.Net6.csproj",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\MyPortfolio.Net6.csproj",
+              "RelativeDocumentMoniker": "MyPortfolio.Net6.csproj",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\MyPortfolio.Net6.csproj",
+              "RelativeToolTip": "MyPortfolio.Net6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T18:02:34.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor.css",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor.css",
+              "RelativeDocumentMoniker": "Pages\\Index.razor.css",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Pages\\Index.razor.css",
+              "RelativeToolTip": "Pages\\Index.razor.css",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T18:50:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransientDisposableService.cs",
+              "DocumentMoniker": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Services\\TransientDisposableService.cs",
+              "RelativeDocumentMoniker": "Services\\TransientDisposableService.cs",
+              "ToolTip": "C:\\Users\\loure\\Downloads\\blazor-samples-main\\blazor-samples-main\\6.0\\BlazorSample_WebAssembly\\Services\\TransientDisposableService.cs",
+              "RelativeToolTip": "Services\\TransientDisposableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:10:01.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

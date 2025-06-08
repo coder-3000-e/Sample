@@ -1,0 +1,20 @@
+@inherits LayoutComponentBase
+@using MyPortfolio.Net6
+@using MyPortfolio.Net6.Shared
+@using MyPortfolio.Net6.UIThemeClasses
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <CascadingValue Value="@theme">
+            <div class="content px-4">
+                @Body
+            </div>
+        </CascadingValue>
+    </main>
+</div>
+
+
